@@ -1,0 +1,57 @@
+{
+    "intro": [
+        {
+            "heading":"Hello,",
+            "details":"I'm Manoj",
+            "occupation": "Front-End Developer",
+            "images" : {
+                "jpg":""
+            }
+        }
+    ],
+    "education": [
+        {
+            "heading": "Education",
+            "details": "B.TECH in Computer Science and Engineering in 2017",
+            "occupation":"Completed Intermediate with Science in 2011",
+            "schooling": "Completed High school in 2008"
+        }
+    ],
+    "experience" :[
+        {
+            "heading" : "Experience",
+            "details" : "Currently Working as Computer Teacher in Mata Gomti Devi Degree College, Prayagraj, Uttar Pradesh, India",
+            "occupation" : "Front-End Developer Internship in Turkey 2019-2021",
+            "schooling": "Worked as Computer Operator in ZAFAR Publication(2017-2019) Prayagraj, Uttar Pradesh, India"
+        }
+    ],
+    "projects":[
+        {
+            "heading" : "Projects",
+            "details" : "Following are the projects created by my own from Frontendmentor.io",
+            "links": [
+                "https://dev-mksingh.github.io/to-do/","https://dev-mksingh.github.io/multi-step-form-/",
+                "https://dev-mksingh.github.io/ecommerce-/","https://dev-mksingh.github.io/interactive-components-/"
+            ],
+            "images": {
+                "first":"./images/todo-app.jpg",
+                "second":"./images/interactive-components.jpg",
+                "third":"./images/ecommerce.jpg",
+                "fourth":"./images/multistep.jpg"
+            }
+        }
+    ],
+    "certification":[
+        {
+            "heading": "Certification",
+            "images": "./images/certificate.jpg"
+        }
+    ],
+    "contact": [
+        {
+            "heading":"Contact",
+            "linkedin": "https://www.linkedin.com/in/manoj-ks-09141a181/?profileId=ACoAACr0VO0B4jmVFfEGTir3gDa9StdBR11wukM",
+            "github":"https://github.com/dev-mksingh"
+        }
+    ]
+}
