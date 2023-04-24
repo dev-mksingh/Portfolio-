@@ -241,9 +241,9 @@ p {
         object-fit: cover;
     }
 
-    /* .menu-bar {
+    .menu-bar {
         display: none;
-    } */
+    }
 
     .hidden {
         display: flex;
